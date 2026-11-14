@@ -1,0 +1,16 @@
+title: "Fieldnote - Research Profile"
+description: "A compact academic profile theme."
+author:
+  name: "Avery Sample"
+  email: "avery.sample@example.org"
+  handle: "@avery-sample"
+  affiliation: "Sample Research Institute"
+  orcid: "0000-0000-0000-0000"
+theme: fieldnote
+markdown: kramdown
+permalink: /:title/
+nav:
+  - name: Home
+    url: /
+  - name: Publications
+    url: /publications/

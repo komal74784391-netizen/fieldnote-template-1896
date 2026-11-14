@@ -1,0 +1,12 @@
+body {
+  margin: 0 auto;
+  max-width: 46rem;
+  padding: 2rem 1rem;
+  font-family: Georgia, serif;
+  line-height: 1.55;
+  color: #222;
+}
+header nav a { margin-right: 1rem; }
+main h1 { font-size: 2rem; }
+main ul { padding-left: 1.2rem; }
+footer { margin-top: 3rem; font-size: 0.8rem; color: #777; }
